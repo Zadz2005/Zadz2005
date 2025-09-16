@@ -27,7 +27,7 @@ I believe projects speak louder than buzzwords, so here are some of my favorites
 **Links:**  
 🔗 [Live Demo](http://18.175.56.118/) | 💻 [Source Code](https://github.com/Zadz2005/UniExamScheduler/tree/master/ExamScheduler)  
 
-![City Exam Scheduler Screenshot](/images/CityExamScheduler.png)  
+![City Exam Scheduler Screenshot](https://github.com/Zadz2005/Zadz2005/blob/main/CityExamScheduler.png)  
 
 ---
 
@@ -41,7 +41,7 @@ I believe projects speak louder than buzzwords, so here are some of my favorites
 **Links:**  
 🔗 [Live Demo](https://spot-i-find.vercel.app/) | 💻 [Source Code](https://github.com/Zadz2005/SpotIFind/tree/main/Spot-I-Find/src)  
 
-![Spot-i-Find Screenshot](/images/spotifind.png)  
+![Spot-i-Find Screenshot](https://github.com/Zadz2005/Zadz2005/blob/main/spotifind.png)  
 
 ---
 
@@ -52,3 +52,4 @@ I believe projects speak louder than buzzwords, so here are some of my favorites
 ---
 
 ✨ *Always building, always learning. If you like my work, feel free to reach out!*  
+
