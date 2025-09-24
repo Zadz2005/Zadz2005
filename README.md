@@ -2,7 +2,7 @@
 
 🚀 Full-stack developer with a knack for building **scalable, user-friendly apps**.  
 🎯 Passionate about bridging the gap between **technical excellence** and **real-world usability**.  
-
+🌐 [Portfolio Website](https://portfolio-website-starter-six.vercel.app/)  
 ---
 
 ## 🔧 Tech Stack  
@@ -34,7 +34,7 @@ I believe projects speak louder than buzzwords, so here are some of my favorites
 ### 🎶 Spot-i-Find  
 > *Discover top artists of each region — music meets geography!*  
 
-🔹 **React + Next.js + Spring Boot**  
+🔹 **React + Next.js + Spring Boot + PostgreSQL**  
 🔹 **Deployed on Vercel**  
 🔹 **Database-powered search for regional top artists**  
 
