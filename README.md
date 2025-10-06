@@ -19,13 +19,13 @@ I believe projects speak louder than buzzwords, so here are some of my favorites
 
 ### 🗓️ City Exam Scheduler  
 > *Search university exams and add them directly to your calendar.*  
-*Backend currently inactive*
+
 🔹 **React + Java Spring Boot + PostgreSQL**  
-🔹 **Deployed on AWS with Docker**  
+🔹 **Deployed on AWS with Docker(Now currently running on Vercel and Railway)**  
 🔹 Helps students **organize exam schedules effortlessly**  
 
 **Links:**  
-🔗 [Live Demo](https://uni-exam-scheduler-6j6k502es-zadz2005s-projects.vercel.app/) | 💻 [Source Code](https://github.com/Zadz2005/UniExamScheduler/tree/master/ExamScheduler)  
+🔗 [Live Demo](https://uni-exam-scheduler.vercel.app/) | 💻 [Source Code](https://github.com/Zadz2005/UniExamScheduler/tree/master/ExamScheduler)  
 
 <img src="https://github.com/Zadz2005/Zadz2005/blob/main/CityExamScheduler.png" alt="City Exam Scheduler Screenshot" width="600"/>  
 
