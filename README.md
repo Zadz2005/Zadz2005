@@ -2,7 +2,7 @@
 
 🚀 Full-stack developer with a knack for building **scalable, user-friendly apps**.  
 🎯 Passionate about bridging the gap between **technical excellence** and **real-world usability**.  
-🌐 [Portfolio Website](https://portfolio-website-starter-six.vercel.app/)  
+
 ---
 
 ## 🔧 Tech Stack  
